@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"exitcode:ETI"WinRM::Output#exitcode;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"5@return [Integer] exitcode returned from command;T:
+@fileI"lib/winrm/output.rb;T:0@omit_headings_from_table_of_contents_below0F@I"WinRM::Output;TcRDoc::NormalClass0
